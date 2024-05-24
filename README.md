@@ -8,7 +8,6 @@ Arabic storytelling platform. Work in progress!
 
 - [ ] Create Models, controllers and views
   - [ ] Article
-    Should have mainly a title, and body
   - [ ] User
   - [ ] Comments
 
