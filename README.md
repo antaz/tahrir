@@ -2,6 +2,8 @@
 
 Arabic storytelling platform. Work in progress!
 
+منصة كتابة باللغة العربية. المشروع قيد الانجاز.
+
 ## Agenda
 
 - [ ] Create Models, controllers and views
