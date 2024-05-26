@@ -16,4 +16,5 @@ Arabic storytelling platform. Work in progress!
 - [ ] Styling
   - [ ] Add tailwind css
   - [ ] Maybe switch to sass?
+- [x] Enable i18n
 - [ ] Deployment
