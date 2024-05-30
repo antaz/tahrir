@@ -6,15 +6,15 @@ Arabic storytelling platform. Work in progress!
 
 ## Agenda
 
-- [ ] Create Models, controllers and views
+- [ ] Create Models, Controllers and Views
   - [ ] Article
-    Should have mainly a title, and body
   - [ ] User
   - [ ] Comments
 
 - [ ] Integrate a text editor
 - [ ] Styling
-  - [ ] Add tailwind css
+  - [x] Add tailwind css
+  - [x] Customize CSS for RTL
   - [ ] Maybe switch to sass?
 - [x] Enable i18n
 - [ ] Testing
