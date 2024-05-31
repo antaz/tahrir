@@ -1,0 +1,11 @@
+<%= form_with model: article do |form| %>
+  <div>
+      <%= form.text_field :title, value: t('title') %>
+  <div>
+    <%= form.text_area :body, value: t('story') %><br>
+  </div>
+
+  <div>
+      <%= form.submit t 'submit' %>
+  </div>
+<% end %>
